@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/moviesassignment/static/css/main.685a141a.chunk.css",
+    "main.css": "/moviesassignment/static/css/main.c0ca7d2b.chunk.css",
     "main.js": "/moviesassignment/static/js/main.917e9ca8.chunk.js",
     "main.js.map": "/moviesassignment/static/js/main.917e9ca8.chunk.js.map",
     "runtime-main.js": "/moviesassignment/static/js/runtime-main.c24eccc6.js",
@@ -10,13 +10,13 @@
     "static/js/3.67391264.chunk.js": "/moviesassignment/static/js/3.67391264.chunk.js",
     "static/js/3.67391264.chunk.js.map": "/moviesassignment/static/js/3.67391264.chunk.js.map",
     "index.html": "/moviesassignment/index.html",
-    "static/css/main.685a141a.chunk.css.map": "/moviesassignment/static/css/main.685a141a.chunk.css.map",
+    "static/css/main.c0ca7d2b.chunk.css.map": "/moviesassignment/static/css/main.c0ca7d2b.chunk.css.map",
     "static/js/2.57073c93.chunk.js.LICENSE.txt": "/moviesassignment/static/js/2.57073c93.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c24eccc6.js",
     "static/js/2.57073c93.chunk.js",
-    "static/css/main.685a141a.chunk.css",
+    "static/css/main.c0ca7d2b.chunk.css",
     "static/js/main.917e9ca8.chunk.js"
   ]
 }
